@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Morra Cinese</string>
+    <string name="logo">LOGO</string>
+    <string name="play_button">Play Button</string>
+    <string name="carta">Carta</string>
+    <string name="sasso">Sasso</string>
+    <string name="forbici">Forbici</string>
+    <string name="fai_la_tua_scelta">Fai la tua scelta…</string>
+    <string name="esci">Esci</string>
+    <string name="rigioca">rigioca</string>
+
+    <string name="titolo_risultato"> Ops </string>
+    <string name="motivo_risultato"> Qualcosa è andato storto! </string>
+
+    <string name="hai_vinto">Hai vinto!</string>
+    <string name="hai_perso">Hai Perso.</string>
+    <string name="pareggio">Pareggio :(</string>
+    <string name="scelta_tt">Abbiamo scelto entrambi %1$s</string>
+    <string name="scelta_pc">Io avevo scelto %1$s</string>
+    <string name="animazione">animazione della scelta dell\'AI</string>
+
+</resources>
